@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**ntillier/ntillier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://twitter.com/devNathanTi">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/4urr9X9ueV">
+    <img src="https://img.shields.io/discord/1075514214984196231?color=informational&label=Discord&logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
+<br />
 
-Here are some ideas to get you started:
+I am a teen fullstack developer, always looking to learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **an app to test TypeScript code snippets**
+- 🌱 I’m currently learning **Rust** and **Angular**
+- 💪 I'm currently improving myself with **Dart** and **Flutter**
+- 🛠️ I can make effective use of **JavaScript & TypeScript, NodeJs  React & Preact, Vue.js, jQuery & Vanilla JavaScript, CSS, Tailwind CSS, Bootstrap, Daisy Ui, PrimeVue & PrimeReact, Python, Spotify's API** and much more...
+
+[![](https://visitcount.itsvg.in/api?id=nathanTi&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
