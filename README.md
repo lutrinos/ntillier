@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<div id="badges">
-  <a href="https://discord.gg/4urr9X9ueV">
-    <img src="https://img.shields.io/discord/1075514214984196231?color=informational&label=Discord&logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
-</div>
-<br />
-
 I am a teen fullstack developer, always looking to learn new things.
 
 - 🔭 I’m currently working on **a forum**
