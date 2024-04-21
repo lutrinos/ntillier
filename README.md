@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a teen fullstack developer, always looking to learn new things.
+I am a teen programmer, always looking to learn new things.
 
 - 🌱 I’m currently learning **some competitive algorithms**
 - 💪 I'm currently improving myself with **Python**, **Rust**
